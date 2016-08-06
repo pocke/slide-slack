@@ -1,5 +1,9 @@
 # Slack の楽しみ方
 
+
+[port-mokumoku #19](http://freestyle-mokumoku.connpass.com/event/36140/)
+
+
 ---
 
 # だれこれ
